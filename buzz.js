@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const resultsCounter = document.querySelector('header p');
 
     // Set the default search term
-    const defaultSearchTerm = "recent trending startups";
+    const defaultSearchTerm = "business and startups";
 
     // Set the input value to the default search term
     input.value = defaultSearchTerm;
