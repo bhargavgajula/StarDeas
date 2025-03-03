@@ -1,4 +1,4 @@
-const API_KEY = "dc428cd29cad43c2a193a74e3d2fb640";
+const API_KEY = "#";
 const url = "https://newsapi.org/v2/everything?q=";
 
 // Set the default search term
